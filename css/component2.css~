@@ -13,7 +13,7 @@ body {
 }
 
 body {
-	background: #ddd;
+	background: #fff;
 	color: #fff;
 }
 
